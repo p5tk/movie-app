@@ -23,11 +23,10 @@ To install Movii, follow these steps:
   expo start
 ```
 
-## Screenshots
+## Demo
 
-![Home Screen](screenshots/home.png)
-![Movie Details](screenshots/movie-details.png)
-![Search](screenshots/search.png)
+You can see the [Demo] (https://www.linkedin.com/posts/phyosithukyaw_reactnative-expo-mobiledevelopment-activity-7209196585665089536-FFbS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC4hKygBbX9Tz-Wu96SJcCYYRYC5XMjsjto) here
+
 
 ## Contributing
 
